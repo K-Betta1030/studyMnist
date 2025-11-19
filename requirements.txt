@@ -1,6 +1,6 @@
-# Flask
-# gunicorn
-# numpy
-# pillow
-# tensorflow-cpu
-# keras
+Flask
+gunicorn
+numpy
+pillow
+tensorflow-cpu
+keras
