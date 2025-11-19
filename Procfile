@@ -1,1 +1,1 @@
-web: gunicorn back:app
+web: gunicorn back:app --workers 1 --threads 8 --timeout 0
